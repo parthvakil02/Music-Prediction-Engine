@@ -1,5 +1,4 @@
-Thank you for taking the time to explore our project! The final report is included
-in the zip as a pdf. Please read the following steps in order to use our project:
+Thank you for taking the time to explore our project! Please read the following steps in order to use our project:
 
 Step 1. Make sure you have all the necessary libraries installed in song_cnn.py
 
